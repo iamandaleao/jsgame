@@ -1,4 +1,4 @@
-# 💻 Primeiros Passos com JavaScript – ONE | Alura + Oracle Next Education
+# 💻 Curso JavaScript – ONE | Alura + Oracle Next Education
 
 Este repositório contém os códigos e aprendizados da aula do curso **"Lógica de programação: mergulhe na programação com JavaScript"**, parte da formação **ONE - Oracle Next Education** em parceria com a **Alura**.
 
